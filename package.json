@@ -1,0 +1,9 @@
+{
+  "name": "emulate-samp-query",
+  "version": "1.0.0",
+  "description": "The application emulates the operation of SA:MP query queries.",
+  "main": "main.js",
+  "type": "module",
+  "author": "hertanion",
+  "license": "MIT"
+}
